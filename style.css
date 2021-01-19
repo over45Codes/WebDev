@@ -1,6 +1,8 @@
 h2 {
-  color: black;
-  background-color: DeepPink;
+  color: lightseagreen;
+  background-color: Pink;
+  text-decoration: black underline;
+  font-size: 30px;
 }
 button {
   color: magenta;
@@ -9,4 +11,9 @@ button {
 p {
   color: DarkSlateGray;
   background: PowderBlue;
+  line-height: 2.5;
+}
+
+a {
+  text-decoration: none;
 }
