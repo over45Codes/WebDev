@@ -1,6 +1,6 @@
 img {
   width: 30%;
-  margin: 1.66666%;
+  margin: calc(10% / 6);
 }
 
 /* 30 + 30 + 30
