@@ -17,8 +17,11 @@ h1 {
 }
 
 #container div {
+  font-size: 40px;
+  font-weight: bold;
   width: 200px;
   height: 200px;
+  /*max-width: 300px; */
   text-align: center;
   /* flex-basis: 400px; */
   flex-basis: 200px;
@@ -26,4 +29,8 @@ h1 {
 
 div:nth-of-type(1) {
   flex-grow: 1;
+}
+
+div:nth-of-type(5) {
+  flex-grow: 2;
 }
