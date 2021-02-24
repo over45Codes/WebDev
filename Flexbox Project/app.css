@@ -7,16 +7,18 @@ h1 {
 #container {
   background-color: #003049;
   width: 90%;
-  height: 500px;
+  /* height: 500px; */
   margin: 0 auto;
   border: 5px solid #003049;
   display: flex;
   flex-direction: column;
-  justify-content: space-evenly;
+  justify-content: center;
   flex-wrap: wrap;
 }
 
 #container div {
   width: 200px;
   height: 200px;
+  text-align: center;
+  /* flex-basis: 400px; */
 }
