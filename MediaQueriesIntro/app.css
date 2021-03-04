@@ -16,3 +16,27 @@ li {
   margin: 0;
   padding: 0;
 }
+
+/* @media (width: 800px) {
+  h1 {
+    color: purple;
+  }
+} */
+
+/* @media (min-width: 600px) and (max-width: 800px) {
+  h1 {
+    color: purple;
+  }
+} */
+
+@media (max-width: 1500px) {
+  h1 {
+    color: yellow;
+  }
+}
+
+@media (width: 1000px) {
+  h1 {
+    color: orange;
+  }
+}
