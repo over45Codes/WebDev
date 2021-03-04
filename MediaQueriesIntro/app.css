@@ -29,14 +29,35 @@ li {
   }
 } */
 
+h1 {
+  color: red;
+}
+/*
 @media (max-width: 1500px) {
+  h1 {
+    color: yellow;
+  }
+} */
+
+@media (width: 500px) {
+  h1 {
+    color: orange;
+  }
+}
+@media (width: 1000px) {
   h1 {
     color: yellow;
   }
 }
 
-@media (width: 1000px) {
+@media (width: 1500px) {
   h1 {
-    color: orange;
+    color: green;
+  }
+}
+
+@media (orientation: landscape) {
+  body {
+    background-color: magenta;
   }
 }
