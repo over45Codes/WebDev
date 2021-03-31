@@ -75,18 +75,20 @@ h1 {
   h1 {
     font-size: 4em;
   }
+
   nav {
     flex-direction: column;
     align-items: center;
   }
 
-  ul{
+  ul {
     flex-direction: column;
     align-items: center;
   }
 
-@media (max-width: 576px) {
-  h1 {
-    font-size: 3em;
+  @media (max-width: 576px) {
+    h1 {
+      font-size: 3em;
+    }
   }
 }

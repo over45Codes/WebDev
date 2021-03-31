@@ -1,0 +1,12 @@
+html {
+  box-sizing: border-box;
+  font-family: "Opens Sans", sans-serif;
+}
+
+body {
+  background-color: #60a9ff;
+}
+
+.panel {
+  background-color: white;
+}
