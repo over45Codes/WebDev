@@ -56,6 +56,38 @@ body {
   border-top: 1px solid #e1f1ff;
 }
 
+.pricing-features-item:last-child {
+  border-bottom: 1px solid #e1f1ff;
+}
+
 .pricing-price {
-  color: #60a9ff;
+  color: #016ff9;
+  display: block;
+  font-size: 32px;
+  font-weight: 700;
+}
+
+.pricing-button {
+  border: 1px solid #9dd1ff;
+  border-radius: 10px;
+  color: #348efe;
+  display: inline-block;
+  padding: 15px 35px;
+  text-decoration: none;
+  margin: 25px 0;
+  transition: background-color 200ms ease-in-out;
+}
+
+.pricing-button:hover,
+.pricing-button:focus {
+  background-color: #e1f1ff;
+}
+.pricing-button.is-featured {
+  background-color: #48aaff;
+  color: white;
+}
+.pricing-button.is-featured:hover,
+.pricing-button.is-featured:focus {
+  background-color: #269aff;
+  color: white;
 }
