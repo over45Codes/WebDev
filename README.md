@@ -22,5 +22,8 @@
 
 **Thoughts:** Excited to be starting this!!!
 
-**Link to work:** My GitHub Still need to create a separate log repo
-( - Grace Castaneda - Full Stack Developer - [Linkedin](https://www.linkedin.com/in/castanedagrace/) )
+**Link to work:** My GitHub Still need to create a separate log repo ...
+
+## Author
+
+- Grace Castaneda - Full Stack Developer - [Linkedin](https://www.linkedin.com/in/castanedagrace/)
