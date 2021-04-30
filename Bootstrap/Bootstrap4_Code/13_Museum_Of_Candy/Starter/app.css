@@ -21,3 +21,6 @@ body {
 #headingGroup span {
   color: #ea1c2c;
 }
+#headingGroup h1 {
+  font-weight: 100;
+}
