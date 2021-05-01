@@ -278,15 +278,19 @@ Today's Progress:
 2. Posted progress on my Instagram Account (@graciicodes)
 3. Tweeted on Twitter (@https://twitter.com/GraciiCodes) progress to the #100-days-of-code challenge
 
-## Thoughts: 🔥BUILD MORE … LEARN LESS by Dorian Develops
+## Thoughts:
 
-Up next: Continuing my project Museaum_of_Candy Project..I see the webpage start to take great shape! Got my 1 hr min in!.
+Always remember: “Your current situation ... Is not your final destination... Keep going. Seems like we are always in transition, if we are moving forward. During this... This is when we start to see these very minuscule changes start to shape our future right in front of us". unkown author ..
+
+Up next: Javascript Course | Section 14: JavaScript Basics! 1 /15 | 57min !!! So Excited 🔥 🔥 🔥
 
 **Link to work**: My GitHub log repo updated (https://github.com/graciicodes/WebDev/blob/main/README.md)
 
 ## Author
 
 - Grace Castaneda - Full Stack Developer - [Linkedin](https://www.linkedin.com/in/castanedagrace/)
+
+---
 
 ( # Bootstrap | JavaScrip & jQuery Museaum of Candy Project)
 
