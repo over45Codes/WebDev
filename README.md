@@ -287,3 +287,19 @@ Up next: Continuing my project Museaum_of_Candy Project..I see the webpage start
 ## Author
 
 - Grace Castaneda - Full Stack Developer - [Linkedin](https://www.linkedin.com/in/castanedagrace/)
+
+( # Bootstrap | JavaScrip & jQuery Museaum of Candy Project)
+
+Museaum of Candy Project Responsive Webpage built with HTML | CSS | Bootstrap JavaScript & jQuery
+
+( Try it here!: Transferring to new repo soon \*\* )
+
+( ![alt text](https://github.com/graciicodes/WebDev/blob/main/Bootstrap/Bootstrap4_Code/13_Museum_Of_Candy/Starter/imgs/Final%20Museum%20of%20Candy%20Project.jpeg) )
+
+( ## Summary )
+
+This Museaum of Candy Project is a simple Responsive Webpage built with HTML | CSS | Bootstrap JavaScript & jQuery. This project was a great code along to reinforce Bootstrap. It also included JavaScript jQuery functions! I learn how to use Bootstrap to make a responsive design which was very interactive and great learning experience.
+
+( ## Author )
+
+( - Grace Castaneda - Full Stack Developer - [Linkedin](https://www.linkedin.com/in/castanedagrace/) )
