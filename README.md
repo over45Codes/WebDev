@@ -266,12 +266,11 @@ Up next: Continuing my project Museaum_of_Candy Project..I see the webpage start
 
 **Today's Project(s)**:
 
-1. Online Web Course via UDEMY The Web Developer Bootcamp 2021
-2. Continuing my Responsive Project \ Museum of Candy with Bootstrap from my Online Course
-3. Updated READ.ME file for Web Dev Course
-4. Posted on Instagram account post #day9 and counting..
-5. Tweeted Day #day9 on my Twitter feed
-6. Added Progress of #100Daysof Code on Taskade App
+1. Finished my Responsive Project \ Museum of Candy with Bootstrap | Javascript | jQuery from my online course @UDEMY The Web Developer Bootcamp 2021
+2. Updated READ.ME file for Web Dev Course
+3. Posted on Instagram account post #day9 and counting..
+4. Tweeted Day #day9 on my Twitter feed
+5. Added Progress of #100Daysof Code on Taskade App
 
 Today's Progress:
 
