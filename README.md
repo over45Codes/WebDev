@@ -292,18 +292,18 @@ Up next: Javascript Course | Section 14: JavaScript Basics! 1 /15 | 57min !!! So
 
 ---
 
-( # Bootstrap | JavaScrip & jQuery Museaum of Candy Project)
+# Bootstrap | JavaScrip & jQuery Museaum of Candy Project
 
-Museaum of Candy Project Responsive Webpage built with HTML | CSS | Bootstrap JavaScript & jQuery
+Museum of Candy Project Responsive Webpage built with HTML5 | CSS | Bootstrap JavaScript & jQuery
 
-( Try it here!: Transferring to new repo soon \*\* )
+Try it here!: Transferring to new repo soon
 
-( ![alt text](https://github.com/graciicodes/WebDev/blob/main/Bootstrap/Bootstrap4_Code/13_Museum_Of_Candy/Starter/imgs/Final%20Museum%20of%20Candy%20Project.jpeg) )
+![alt text](https://github.com/graciicodes/WebDev/blob/main/Bootstrap/Bootstrap4_Code/13_Museum_Of_Candy/Starter/imgs/Final%20Museum%20of%20Candy%20Project.jpeg)
 
-( ## Summary )
+## Summary
 
-This Museaum of Candy Project is a simple Responsive Webpage built with HTML | CSS | Bootstrap JavaScript & jQuery. This project was a great code along to reinforce Bootstrap. It also included JavaScript jQuery functions! I learn how to use Bootstrap to make a responsive design which was very interactive and great learning experience.
+This Museaum of Candy Project is a simple Responsive Webpage built with HTML5 | CSS | Bootstrap JavaScript & jQuery. This project was a great code along to reinforce Bootstrap. It also included JavaScript jQuery functions! I learn how to use Bootstrap to make a responsive design which was very interactive and great learning experience.
 
-( ## Author )
+## Author
 
-( - Grace Castaneda - Full Stack Developer - [Linkedin](https://www.linkedin.com/in/castanedagrace/) )
+- Grace Castaneda - Full Stack Developer - [Linkedin](https://www.linkedin.com/in/castanedagrace/)
