@@ -196,7 +196,7 @@ Up next: Continue my project Museaum_of_Candy Project Got my 1 hr min in!.
 
 # 100 Days Of Code - Log
 
-### Day 7: April 28, 2021 – Thursday
+### Day 7: April 29, 2021 – Thursday
 
 ##### (I've joined the #100DaysOfCode Challenge)
 
@@ -229,7 +229,7 @@ Up next: Continue my project Museaum_of_Candy Project..Got my 1 hr min in!.
 
 # 100 Days Of Code - Log
 
-### Day 8: April 28, 2021 – Friday
+### Day 8: April 30, 2021 – Friday
 
 ##### (I've joined the #100DaysOfCode Challenge)
 
@@ -250,7 +250,38 @@ Today's Progress:
 
 ## Thoughts: 🔥BUILD MORE … LEARN LESS by Dorian Develops
 
-Up next: Continue my project Museaum_of_Candy Project..I see the webpage start to take great shape! Got my 1 hr min in!.
+Up next: Continuing my project Museaum_of_Candy Project..I see the webpage start to take great shape! Got my 1 hr min in!.
+
+**Link to work**: My GitHub log repo updated (https://github.com/graciicodes/WebDev/blob/main/README.md)
+
+## Author
+
+- Grace Castaneda - Full Stack Developer - [Linkedin](https://www.linkedin.com/in/castanedagrace/)
+
+# 100 Days Of Code - Log
+
+### Day 9: May 01, 2021 – Saturday
+
+##### (I've joined the #100DaysOfCode Challenge)
+
+**Today's Project(s)**:
+
+1. Online Web Course via UDEMY The Web Developer Bootcamp 2021
+2. Continuing my Responsive Project \ Museum of Candy with Bootstrap from my Online Course
+3. Updated READ.ME file for Web Dev Course
+4. Posted on Instagram account post #day9 and counting..
+5. Tweeted Day #day9 on my Twitter feed
+6. Added Progress of #100Daysof Code on Taskade App
+
+Today's Progress:
+
+1. One more day ... Got my 1 hr min in! I did it. YES! again - Updated log.md in GitHub profile (@https://github.com/graciicodes)
+2. Posted progress on my Instagram Account (@graciicodes)
+3. Tweeted on Twitter (@https://twitter.com/GraciiCodes) progress to the #100-days-of-code challenge
+
+## Thoughts: 🔥BUILD MORE … LEARN LESS by Dorian Develops
+
+Up next: Continuing my project Museaum_of_Candy Project..I see the webpage start to take great shape! Got my 1 hr min in!.
 
 **Link to work**: My GitHub log repo updated (https://github.com/graciicodes/WebDev/blob/main/README.md)
 
