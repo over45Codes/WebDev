@@ -14,6 +14,9 @@ body {
   font-size: 1.125rem;
   line-height: 2;
 }
+.content {
+  margin-top: 100px;
+}
 
 #mainNavbar {
   font-size: 1.5rem;
