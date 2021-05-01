@@ -24,3 +24,10 @@ body {
 #headingGroup h1 {
   font-weight: 100;
 }
+
+@media (max-width: 1200px) {
+  #headingGroup h1 {
+    font-weight: 100;
+    font-size: 3rem;
+  }
+}
