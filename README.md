@@ -292,7 +292,7 @@ Up next: Javascript Course | Section 14: JavaScript Basics! 1 /15 | 57min !!! So
 
 ---
 
-# Bootstrap | JavaScrip & jQuery Museaum of Candy Project
+# Bootstrap | JavaScrip & jQuery Museum of Candy Project
 
 Museum of Candy Project Responsive Webpage built with HTML5 | CSS | Bootstrap JavaScript & jQuery
 
@@ -302,7 +302,7 @@ Try it here!: Transferring to new repo soon
 
 ## Summary
 
-This Museaum of Candy Project is a simple Responsive Webpage built with HTML5 | CSS | Bootstrap JavaScript & jQuery. This project was a great code along to reinforce Bootstrap. It also included JavaScript jQuery functions! I learn how to use Bootstrap to make a responsive design which was very interactive and great learning experience.
+This Museum of Candy Project is a simple Responsive Webpage built with HTML5 | CSS | Bootstrap JavaScript & jQuery. This project was a great code along to reinforce Bootstrap. It also included JavaScript jQuery functions! I learn how to use Bootstrap to make a responsive design which was very interactive and great learning experience.
 
 ## Author
 
