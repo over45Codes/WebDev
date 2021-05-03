@@ -258,6 +258,8 @@ Up next: Continuing my project Museaum_of_Candy Project..I see the webpage start
 
 - Grace Castaneda - Full Stack Developer - [Linkedin](https://www.linkedin.com/in/castanedagrace/)
 
+---
+
 # 100 Days Of Code - Log
 
 ### Day 9: May 01, 2021 – Saturday
@@ -290,8 +292,6 @@ Up next: Javascript Course | Section 14: JavaScript Basics! 1 /15 | 57min !!! So
 
 - Grace Castaneda - Full Stack Developer - [Linkedin](https://www.linkedin.com/in/castanedagrace/)
 
----
-
 # Bootstrap | JavaScrip & jQuery Museum of Candy Project
 
 Museum of Candy Project Responsive Webpage built with HTML5 | CSS | Bootstrap JavaScript & jQuery
@@ -303,6 +303,45 @@ Try it [here!](https://graciicodes.github.io/WebDev/)
 ## Summary
 
 This Museum of Candy Project is a simple Responsive Webpage built with HTML5 | CSS | Bootstrap JavaScript & jQuery. This project was a great code along to reinforce Bootstrap. It also included JavaScript jQuery functions! I learn how to use Bootstrap to make a responsive design which was very interactive and great learning experience.
+
+## Author
+
+- Grace Castaneda - Full Stack Developer - [Linkedin](https://www.linkedin.com/in/castanedagrace/)
+
+---
+
+# 100 Days Of Code - Log
+
+### Day 10: May 02, 2021 – Sunday
+
+##### (I've joined the #100DaysOfCode Challenge)
+
+**Today's Project(s)**:
+
+1. Started: Section 14: JavaScript Basics! 1 / 15|57min🚀 ✅ 🔥
+   @UDEMY The Web Developer Bootcamp 2021
+2. Updated READ.ME file for Web Dev Course -
+3. Posted on Instagram account post #day10 and counting..
+4. Tweeted Day #day10 on my Twitter feed
+5. Added Progress of #100Daysof Code on Taskade App
+6.
+
+Today's Progress:
+
+1. One more day ... Got my 1 hr min in! I did it. YES! again - Updated log.md in GitHub profile (@https://github.com/graciicodes)
+2. Started: Section 14: JavaScript Basics! 1 / 15|57min🚀 ✅ 🔥
+3. @UDEMY The Web Developer Bootcamp 2021
+4. Relocated my Museum of Candy Project in GitHub for easier access and it folders link: Try it [here!](https://graciicodes.github.io/WebDev/)
+5. Posted progress on my Instagram Account (@graciicodes)
+6. Tweeted on Twitter (@https://twitter.com/GraciiCodes) progress to the #100-days-of-code challenge
+
+## Thoughts:
+
+1. Always remember: “code every day”, “Simplicity is the soul of efficiency.” – Austin Freeman
+
+Up next: Javascript Course | Section 14: 147. Updating Variables ect.. So Excited 🔥
+
+**Link to work**: My GitHub log repo updated (https://github.com/graciicodes/WebDev/blob/main/README.md)
 
 ## Author
 
