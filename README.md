@@ -296,7 +296,7 @@ Up next: Javascript Course | Section 14: JavaScript Basics! 1 /15 | 57min !!! So
 
 Museum of Candy Project Responsive Webpage built with HTML5 | CSS | Bootstrap JavaScript & jQuery
 
-Try it here!: Transferring to new repo soon
+Try it [here!](https://graciicodes.github.io/WebDev/)
 
 ![alt text](https://github.com/graciicodes/WebDev/blob/main/Bootstrap/Bootstrap4_Code/13_Museum_Of_Candy/Starter/imgs/Final%20Museum%20of%20Candy%20Project.jpeg)
 
