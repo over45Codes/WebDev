@@ -417,3 +417,37 @@ Up next: Javascript Course | Section 14: 147. Updating Variables ect.. So Excite
 ## Author
 
 - Grace Castaneda - Full Stack Developer - [Linkedin](https://www.linkedin.com/in/castanedagrace/)
+
+---
+
+# 100 Days Of Code - Log
+
+### Day 13: May 05, 2021 – Wednesday (Happy Cinco de Mayo! 🇲🇽 )
+
+##### (I've joined the #100DaysOfCode Challenge)
+
+**Today's Project(s)**:
+
+1. Continued Section 15: JavaScript Strings and More 13 | 50min 🚀 @UDEMY The Web Developer Bootcamp 2021
+2. Updated READ.ME file for #100DaysofCode
+3. Posted on Instagram account post #day13 and counting..
+4. Tweeted Day #day13 on my Twitter feed
+5. Added Progress of #100Daysof Code on Taskade App
+
+Today's Progress:
+
+1. One more day ... Got my 1 hr min in! I did it. YES! again - Updated log.md in GitHub profile (@https://github.com/graciicodes)
+2. Posted progress on my Instagram Account (@graciicodes)
+3. Tweeted on Twitter (@https://twitter.com/GraciiCodes) progress to the #100-days-of-code challenge
+
+## Thoughts:
+
+1. Always remember: “code every day”, “Simplicity is the soul of efficiency.” – Austin Freeman
+
+Up next: Finish Section 15: JavaScript Strings and More ✅ @UDEMY The Web Developer Bootcamp 2021
+
+**Link to work**: My GitHub log repo updated (https://github.com/graciicodes/WebDev/blob/main/README.md)
+
+## Author
+
+- Grace Castaneda - Full Stack Developer - [Linkedin](https://www.linkedin.com/in/castanedagrace/)
