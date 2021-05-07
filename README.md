@@ -456,7 +456,7 @@ Up next: Finish Section 15: JavaScript Strings and More ✅ @UDEMY The Web Devel
 
 # 100 Days Of Code - Log
 
-### Day 14: May 05, 2021 – Thursday
+### Day 14: May 06, 2021 – Thursday
 
 ##### (I've joined the #100DaysOfCode Challenge)
 
